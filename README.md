@@ -2,6 +2,8 @@
 
 A full-stack note-taking and idea management application built with the MERN stack. Thinkboard lets you capture, organize, and manage your thoughts and notes through a clean, responsive interface.
 
+<img width="1918" height="886" alt="image" src="https://github.com/user-attachments/assets/6a8ce099-b5f9-4c7b-8a7a-769f5df5865c" />
+
 ## 📋 Project Description
 
 RJ Thinkboard is a modern web application that provides a simple and intuitive platform for creating and managing notes or "thoughts." It features a decoupled frontend and backend architecture, rate limiting via Upstash Redis to protect the API, and a responsive UI powered by Tailwind CSS and DaisyUI.
